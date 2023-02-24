@@ -1,0 +1,934 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f4a353a-7bdb-41e6-9a2e-3b09eaadb94a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PythonPage$dianying.coverage" NAME="dianying Coverage Results" MODIFIED="1552027867514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentThree" />
+    <SUITE FILE_PATH="coverage/PythonPage$SparktestStuWordCount.coverage" NAME="SparktestStuWordCount Coverage Results" MODIFIED="1572834650843" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/Spark1" />
+    <SUITE FILE_PATH="coverage/PythonPage$sparktest2.coverage" NAME="sparktest2 Coverage Results" MODIFIED="1555382312787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/大数据" />
+    <SUITE FILE_PATH="coverage/PythonPage$webPy.coverage" NAME="webPy Coverage Results" MODIFIED="1572834580730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentThree" />
+    <SUITE FILE_PATH="coverage/PythonPage$kafka2.coverage" NAME="kafka2 Coverage Results" MODIFIED="1554901004778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/大数据" />
+    <SUITE FILE_PATH="coverage/PythonPage$pytest_for_kafka1_test.coverage" NAME="pytest for kafka1.test Coverage Results" MODIFIED="1554900788022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/大数据" />
+    <SUITE FILE_PATH="coverage/PythonPage$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1558336485081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/转字符" />
+    <SUITE FILE_PATH="coverage/PythonPage$mysql1.coverage" NAME="mysql1 Coverage Results" MODIFIED="1547447220554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentTwo" />
+    <SUITE FILE_PATH="coverage/PythonPage$Sparktest.coverage" NAME="Sparktest简单测试 Coverage Results" MODIFIED="1555491858510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/Spark1" />
+    <SUITE FILE_PATH="coverage/PythonPage$douban.coverage" NAME="douban Coverage Results" MODIFIED="1552726546572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne" />
+    <SUITE FILE_PATH="coverage/PythonPage$.coverage" NAME="图片转字符图片 Coverage Results" MODIFIED="1572873568923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/转字符" />
+    <SUITE FILE_PATH="coverage/PythonPage$__init____1_.coverage" NAME="__init__ (1) Coverage Results" MODIFIED="1553844644765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonPandas数据分析/数据导入" />
+    <SUITE FILE_PATH="coverage/PythonPage$file.coverage" NAME="file导出 Coverage Results" MODIFIED="1554292331782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonPandas数据分析/数据导入导出" />
+    <SUITE FILE_PATH="coverage/PythonPage$fileTest.coverage" NAME="fileTest Coverage Results" MODIFIED="1546676723461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NetWorkDisk" />
+    <SUITE FILE_PATH="coverage/PythonPage$photo.coverage" NAME="photo Coverage Results" MODIFIED="1552284700537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/数据" />
+    <SUITE FILE_PATH="coverage/PythonPage$weather.coverage" NAME="weather Coverage Results" MODIFIED="1572834885421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne" />
+    <SUITE FILE_PATH="coverage/PythonPage$fw.coverage" NAME="fw Coverage Results" MODIFIED="1547724266985" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpiderDEMO/PythonURLlib" />
+    <SUITE FILE_PATH="coverage/PythonPage$tree.coverage" NAME="tree Coverage Results" MODIFIED="1552966439606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/算法" />
+    <SUITE FILE_PATH="coverage/PythonPage$SparktestStu.coverage" NAME="SparktestStu Coverage Results" MODIFIED="1555490193671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/Spark1" />
+    <SUITE FILE_PATH="coverage/PythonPage$fangwen.coverage" NAME="fangwen Coverage Results" MODIFIED="1547724233854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpiderDEMO/PythonURLlib" />
+    <SUITE FILE_PATH="coverage/PythonPage$test.coverage" NAME="test Coverage Results" MODIFIED="1552966413043" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne" />
+    <SUITE FILE_PATH="coverage/PythonPage$kafkaConsumer.coverage" NAME="kafkaConsumer Coverage Results" MODIFIED="1555071579063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/大数据" />
+    <SUITE FILE_PATH="coverage/PythonPage$kafka1.coverage" NAME="kafka1 Coverage Results" MODIFIED="1554947182945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/大数据" />
+    <SUITE FILE_PATH="coverage/PythonPage$pyspark.coverage" NAME="pyspark连接集群 Coverage Results" MODIFIED="1555492267355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/spark2" />
+    <SUITE FILE_PATH="coverage/PythonPage$kafka.coverage" NAME="kafka Coverage Results" MODIFIED="1554900638952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/大数据" />
+    <SUITE FILE_PATH="coverage/PythonPage$fileImport.coverage" NAME="fileImport Coverage Results" MODIFIED="1554289232837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonPandas数据分析/数据导入" />
+    <SUITE FILE_PATH="coverage/PythonPage$CarteData2.coverage" NAME="CarteData2 Coverage Results" MODIFIED="1547892085184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu" />
+    <SUITE FILE_PATH="coverage/PythonPage$CarteData.coverage" NAME="CarteData Coverage Results" MODIFIED="1547977576672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu" />
+    <SUITE FILE_PATH="coverage/PythonPage$sparktest.coverage" NAME="sparktest Coverage Results" MODIFIED="1555382206388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/大数据" />
+    <SUITE FILE_PATH="coverage/PythonPage$hdfs_py.coverage" NAME="hdfs-py Coverage Results" MODIFIED="1546504165220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NetWorkDisk" />
+    <SUITE FILE_PATH="coverage/PythonPage$kafkaTest2.coverage" NAME="kafkaTest2 Coverage Results" MODIFIED="1554899268971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/bigdataStu/大数据" />
+    <SUITE FILE_PATH="coverage/PythonPage$urllib.coverage" NAME="urllib框架整合处理 Coverage Results" MODIFIED="1549704354164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PythonSpiderDEMO/PythonURLlib" />
+    <SUITE FILE_PATH="coverage/PythonPage$txtimport.coverage" NAME="txtimport Coverage Results" MODIFIED="1553678519753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythonPandas数据分析/数据导入" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-816296465">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="70" />
+          <entry key="project.open.time.0" value="8" />
+          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="7" />
+          <entry key="project.open.time.8" value="23" />
+          <entry key="project.open.time.9" value="24" />
+          <entry key="project.opened" value="73" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="2" />
+          <entry key="html" value="5" />
+          <entry key="josn" value="4" />
+          <entry key="jpg" value="6" />
+          <entry key="json" value="100" />
+          <entry key="lastfailed" value="2" />
+          <entry key="log" value="1" />
+          <entry key="nodeids" value="2" />
+          <entry key="py" value="220" />
+          <entry key="test1" value="3" />
+          <entry key="txt" value="42" />
+          <entry key="user_small" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="5" />
+          <entry key="Image" value="6" />
+          <entry key="JSON" value="100" />
+          <entry key="PLAIN_TEXT" value="57" />
+          <entry key="Python" value="220" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="60" />
+          <entry key="json" value="12" />
+          <entry key="py" value="6842" />
+          <entry key="test1" value="169" />
+          <entry key="txt" value="122" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JSON" value="12" />
+          <entry key="PLAIN_TEXT" value="351" />
+          <entry key="Python" value="6842" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bigdataStu/转字符/图片转字符图片.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/weather.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="86">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonPandas数据分析/数据导入导出/file导入.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pythonPandas数据分析/数据导入导出/file导出.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="524">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>from kafka import KafkaConsumer\nimport pymysql\n\nconsumer \= KafkaConsumer\(\'mytopic1\'\, bootstrap_servers\=\[\'192\.168\.104\.176\:9092\'\]\)\ndb \= pymysql\.connect\(host\=\'localhost\'\, user\=\'root\'\, password\=\'root\'\, port\=3306\, db\=\'spiders\'\)\ncursot \= db\.cursor\(\)\ndata \= \{\n\	\'id\'\: \'20120001\'\,\n\	\'name\'\: \'刘世豪\'\,\n\	\'age\'\: \'20\'\,\n\n\}\ntable \= \'log\'\nkeys \= \'\,\'\.join\(data\.keys\(\)\)\nvalues \= \'\,\'\.join\(\[\'\%s\'\] \* len\(data\)\)\nsql \= \'INSERT INTO \{table\} \(\{keys\}\) VALUES \(\{values\}\)\'\.format\(table\=table\, keys\=keys\, values\=values\)\ntry\:\n\	if cursot\.execute\(sql\, tuple\(data\.values\(\)\)\)\:\n\	\	print\(\'成功插入\'\)\n\	\	db\.commit\(\)\nexcept\:\n\	print\(\'失败\'\)\n\	db\.rollback\(\)\ndb\.close\(\)\nfor message in consumer\:\n\	print\(\n\	\	message\.topic\,\n\	\	message\.partition\,\n\	\	message\.offset\,\n\	\	message\.key\,\n\	\	message\.value\)\n</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/PythonMysql,Redis,MongoDB/Ajax练习/新年快乐.py" />
+        <option value="$PROJECT_DIR$/NetWorkDisk/fileTest.py" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentThree/dainyin.josn" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentThree/dainyin.json" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentTwo/mysql1.py" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonURLlib/fangwen.py" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentThree/dainying3.json" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/weather.py" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/douban.json" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/cehngshi.json" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/flower.py" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonURLlib/fw.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/CarteData2.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/CarteData.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/data1.txt" />
+        <option value="$PROJECT_DIR$/NetWorkDisk/hdfs-py.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/tree.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/算法/插入.py" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonURLlib/urllib框架整合处理.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/数据/photo.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/数据/test.py" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/douban.py" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/test.py" />
+        <option value="$PROJECT_DIR$/pythonPandas数据分析/数据导入/txt.py" />
+        <option value="$PROJECT_DIR$/pythonPandas数据分析/数据导入/txtimport.py" />
+        <option value="$PROJECT_DIR$/pythonPandas数据分析/数据导入/csvimport.py" />
+        <option value="$PROJECT_DIR$/pythonPandas数据分析/__init__.py" />
+        <option value="$PROJECT_DIR$/pythonPandas数据分析/数据导入/__init__.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/算法/决策.py" />
+        <option value="$PROJECT_DIR$/pythonPandas数据分析/数据导入/fileImport.py" />
+        <option value="$PROJECT_DIR$/PythonMysql,Redis,MongoDB/mysql练习/mysql.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/数据/sparktest.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/大数据/sparktest.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/大数据/kafkaTest2.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/大数据/kafka.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/大数据/kafka2.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/大数据/kafka1.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/大数据/kafkaConsumer.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/大数据/sparktest2.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/Spark1/student.txt" />
+        <option value="$PROJECT_DIR$/bigdataStu/Spark1/sparktest.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/Spark1/user_small.txt" />
+        <option value="$PROJECT_DIR$/bigdataStu/Spark1/SparktestStu数据测试.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/Spark1/test1" />
+        <option value="$PROJECT_DIR$/bigdataStu/Spark1/SparktestStu.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/spark2/pyspark连接集群.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/Spark1/Sparktest连接.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/sparkStreaming/test.py" />
+        <option value="$PROJECT_DIR$/bigdataStu/转字符/__init__.py" />
+        <option value="$PROJECT_DIR$/pythonPandas数据分析/数据导入导出/file导出.py" />
+        <option value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentThree/dianying.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="135" />
+    <option name="y" value="410" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdataStu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdataStu" type="462c0819:PsiDirectoryNode" />
+              <item name="Spark1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdataStu" type="462c0819:PsiDirectoryNode" />
+              <item name="spark2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdataStu" type="462c0819:PsiDirectoryNode" />
+              <item name="sparkStreaming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdataStu" type="462c0819:PsiDirectoryNode" />
+              <item name="大数据" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdataStu" type="462c0819:PsiDirectoryNode" />
+              <item name="大数据" type="462c0819:PsiDirectoryNode" />
+              <item name=".pytest_cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdataStu" type="462c0819:PsiDirectoryNode" />
+              <item name="大数据" type="462c0819:PsiDirectoryNode" />
+              <item name=".pytest_cache" type="462c0819:PsiDirectoryNode" />
+              <item name="v" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdataStu" type="462c0819:PsiDirectoryNode" />
+              <item name="数据" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdataStu" type="462c0819:PsiDirectoryNode" />
+              <item name="算法" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="bigdataStu" type="462c0819:PsiDirectoryNode" />
+              <item name="转字符" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonMysql,Redis,MongoDB" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonPandas数据分析" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="pythonPandas数据分析" type="462c0819:PsiDirectoryNode" />
+              <item name="数据导入导出" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonQQ" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonSpiderDEMO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonSpiderDEMO" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonStudentOne" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonSpiderDEMO" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonStudentThree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonSpiderDEMO" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonStudentTwo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonPage" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonSpiderDEMO" type="462c0819:PsiDirectoryNode" />
+              <item name="PythonURLlib" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="PythonPage" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="PythonPage" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="bigdataStu" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\PythonPage\bigdataStu\大数据" />
+      <recent name="F:\PythonPage\pythonPandas数据分析\数据导入" />
+      <recent name="F:\PythonPage\PythonMysql,Redis,MongoDB\Ajax练习" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PythonPage\bigdataStu\Spark1" />
+      <recent name="F:\PythonPage\bigdataStu\转字符" />
+      <recent name="F:\PythonPage\bigdataStu\大数据" />
+      <recent name="F:\PythonPage\bigdataStu" />
+      <recent name="F:\PythonPage\pythonPandas数据分析" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.图片转字符图片">
+    <configuration name="temperature.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PythonPage/PythonSpiderDEMO/PythonStudentOne/temperature.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="图片转字符图片" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonPage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bigdataStu/转字符" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bigdataStu/转字符/图片转字符图片.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SparktestStu数据测试" type="PythonConfigurationType" factoryName="Python">
+      <module name="PythonPage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bigdataStu/Spark1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\PythonPage\bigdataStu\Spark1\SparktestStuWordCount.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SparktestStuWordCount" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonPage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bigdataStu/Spark1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bigdataStu/Spark1/SparktestStuWordCount.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SparktestStu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonPage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bigdataStu/Spark1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="F:\PythonPage\bigdataStu\Spark1\SparktestStuWordCount.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="weather" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonPage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/weather.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="webPy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonPage" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentThree" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentThree/webPy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.SparktestStu数据测试" />
+      <item itemvalue="Python.SparktestStuWordCount" />
+      <item itemvalue="Python.webPy" />
+      <item itemvalue="Python.weather" />
+      <item itemvalue="JavaScript Debug.temperature.html" />
+      <item itemvalue="Python.图片转字符图片" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.图片转字符图片" />
+        <item itemvalue="JavaScript Debug.temperature.html" />
+        <item itemvalue="Python.weather" />
+        <item itemvalue="Python.SparktestStuWordCount" />
+        <item itemvalue="Python.webPy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f4a353a-7bdb-41e6-9a2e-3b09eaadb94a" name="Default Changelist" comment="" />
+      <created>1545365342717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545365342717</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_kafka1_test - 2019.04.10 at 20h 53m 13s.xml">
+      <configuration name="pytest for kafka1.test" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1689008" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.2875354" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.07648725" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17225201" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="0" weight="0.41218132" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3385269" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="6" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="13" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bigdataStu/大数据/kafka2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/Spark1/users.txt" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pykafka/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1716">
+          <caret line="81" column="8" selection-start-line="81" selection-start-column="8" selection-end-line="81" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/kafka/consumer/fetcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="232" selection-start-line="232" selection-end-line="232" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/大数据/kafkaConsumer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonMysql,Redis,MongoDB/mysql练习/mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="44" column="20" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/Spark1/student.txt" />
+    <entry file="file://$PROJECT_DIR$/bigdataStu/Spark1/user_small" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/runpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1760">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/Spark1/derby.log" />
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/site-packages/pyspark/rdd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="324" column="46" selection-start-line="324" selection-start-column="46" selection-end-line="324" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/Spark1/Sparktest简单测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="9" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/sparkStreaming/test1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/数据/photo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="610">
+          <caret line="219" column="19" selection-start-line="219" selection-start-column="13" selection-end-line="219" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/数据/CarteData2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="37" column="9" lean-forward="true" selection-start-line="37" selection-start-column="9" selection-end-line="37" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/flower.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/数据/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/Spark1/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/spark2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/大数据/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/sparkStreaming/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/算法/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/转字符/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonPandas数据分析/数据导入导出/01.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/转字符/图片转字符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/算法/tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/douban.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-473">
+          <caret line="10" column="69" lean-forward="true" selection-start-line="10" selection-start-column="69" selection-end-line="10" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/shenzhen.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentThree/dainying4.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentThree/webPy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="11" column="36" lean-forward="true" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/Spark1/Sparktest连接.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/Spark1/test1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/spark2/pyspark连接集群.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonURLlib/fangwen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-845" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/Spark1/SparktestStuWordCount.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/temperature.html" />
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentTwo/pie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonURLlib/fw.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonURLlib/cookies.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentTwo/min.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-265" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/大数据/.pytest_cache/v/cache/lastfailed">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/大数据/.pytest_cache/v/cache/nodeids">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentThree/dianying.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1078">
+          <caret line="80" column="38" lean-forward="true" selection-start-line="80" selection-start-column="38" selection-end-line="80" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/算法/决策.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="59" column="26" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/算法/插入.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/大数据/kafka1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="54" lean-forward="true" selection-start-line="24" selection-start-column="54" selection-end-line="24" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonPandas数据分析/数据导入导出/file导入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythonPandas数据分析/数据导入导出/file导出.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="524">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bigdataStu/转字符/图片转字符图片.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PythonSpiderDEMO/PythonStudentOne/weather.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
